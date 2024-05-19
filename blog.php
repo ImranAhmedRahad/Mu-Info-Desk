@@ -1,3 +1,7 @@
+
+<?php include('NavBar.php')?>
+<br>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,6 +17,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
 body{
     background:#f1f1f1;
@@ -76,10 +81,10 @@ header h1{
     width: 35px;
 }
 .video-player{
-    width: 80%;
+    width: 70%;
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 53%;
     transform: translate(-50%,-50%);
     display: none;
 }
@@ -98,17 +103,20 @@ video:focus{
     grid-auto-columns: 1fr 1fr 1fr ;
     max-width: 1050px;
     width: 90%;
-    margin-top: 50px;
+    margin-top:60px ;
+   
 }
 .blog-box{
     max-width:45%;
-    width: 100%;
+    width: 90%;
     height: 100%;
     padding: 10px;
     display: flex;
     flex-direction: column;
     transition: all ease 0.3s;
     margin-left: 30px;
+
+  
     
 }
 .blog-box:hover{
@@ -151,7 +159,7 @@ video:focus{
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    margin-top: 60px;
+    margin-top: 10px;
 }
 .blog-author-img{
     width: 50px;
@@ -183,6 +191,7 @@ video:focus{
 </head>
 <body>
    <header>
+    
         <h1 class="animate__animated animate__bounce animate__zoomIn animate__slower " >PERSONAL BLOGS</h1>
         </header>
         <div class="row">
@@ -237,7 +246,6 @@ video:focus{
          <div class="blog-box-text">
                 <strong>Bosonto Utshob</strong>
                 <p>বসন্ত উৎসব ১৪৩০, Metropolitan University Sylhet Celebrate at Metropolitan University.
-
                 </p>
                 <div class="blog-author">
                     <div class="blog-author-img">

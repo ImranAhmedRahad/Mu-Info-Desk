@@ -1,3 +1,4 @@
+<?php include('NavBar.php')?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,10 +11,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
    
 }
 body{ 
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -25,6 +26,7 @@ body{
  
 }
 .box{ 
+    font-family: 'Courier New', Courier, monospace;
     position: relative;
     width: 380px;
     height: 420px;
@@ -60,7 +62,7 @@ body{
     background: transparent ;
     outline: none;
     box-shadow: none;
-    color: rgba(15, 19, 24,0.5);
+    color: White;/*rgba(15, 19, 24,1);*/
     font-size: 1em;
     letter-spacing: 0.05em;
     transition: 0.5s;
@@ -149,10 +151,11 @@ while ($row = mysqli_fetch_assoc($result_query)) {
         <p class="fs-4 ">Addr: <span><?php echo $addr;?><span></p>
         </div>
         <?php
-}
-
-        } else {
+        }
+        } 
+        else {
         ?>
+
     <div class="box">
             <form method="POST">
                 <h2>Find Students Information</h2>
@@ -175,17 +178,7 @@ while ($row = mysqli_fetch_assoc($result_query)) {
         <?php
         }
 
-
-
         ?>
-
-
-
-
-  
-
-</body>
-
-	
+</body>	
 </body>
 </html>

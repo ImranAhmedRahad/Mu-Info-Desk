@@ -1,3 +1,4 @@
+<?php include('NavBar.php')?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +13,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Courier New', Courier, monospace;
+            
 
         }
 
@@ -29,6 +30,7 @@
         }
 
         .box {
+            font-family: 'Courier New', Courier, monospace;
             position: relative;
             width: 380px;
             height: 420px;
@@ -68,7 +70,7 @@
             background: transparent;
             outline: none;
             box-shadow: none;
-            color: rgba(15, 19, 24, 0.5);
+            color:white; /*rgba(15, 19, 24, 0.5);*/
             font-size: 1em;
             letter-spacing: 0.05em;
             transition: 0.5s;

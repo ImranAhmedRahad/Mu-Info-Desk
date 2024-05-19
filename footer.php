@@ -11,24 +11,22 @@
     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
       <h5 class="mb-4 font-weight-bold text-warning">Our Features</h5>
 
-      <p><a href="#Home" class="text-white" style="text-decoration: none";></a>Home</p>
-      <p><a href="#About" class="text-white" style="text-decoration: none";></a>About</p>
-      <p><a href="#Team" class="text-white" style="text-decoration: none";></a>Team</p>
-    
-      <p><a href="#Home" class="text-white" style="text-decoration: none";></a>Activities</p>
+      <p><a href="#Home" class="text-white" style="text-decoration: none";>Home</a></p>
+      <p><a href="#About" class="text-white" style="text-decoration: none";>About</a></p>
+      <p><a href="#Team" class="text-white" style="text-decoration: none";>Team</a></p>
+      <p><a href="#Home" class="text-white" style="text-decoration: none";>Activities</a></p>
     </div>
 
     <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
       <h5 class="mb-4 font-weight-bold text-warning">Services</h5>
 
-      <p><a href="#" class="text-white" style="text-decoration: none";></a>Teacher Info</p>
+      <p><a href="teacher.php" class="text-white" style="text-decoration: none";>Teacher Info</a></p>
 
-      <p><a href="#" class="text-white" style="text-decoration: none";></a>Student Info</p>
+      <p><a href="student.php" class="text-white" style="text-decoration: none";>Student Info</a></p>
 
-      <p><a href="#" class="text-white" style="text-decoration: none";></a>Job Info</p>
+      <p><a href="Target" class="text-white" style="text-decoration: none";>Job Info</a></p>
     
-      <p><a href="#" class="text-white" style="text-decoration: none";></a>Assignment cover page</p>
-      <p><a href="#" class="text-white" style="text-decoration: none";></a>Course Distribution</p>
+      <p><a href="target" class="text-white" style="text-decoration: none";>Course Distribution</a></p>
 
     </div>
 
@@ -44,19 +42,19 @@
       <ul class="list-unstyled list-inline">
 
 <li class="list-inline-item">
-  <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="bi bi-facebook"></i></a>
+  <a href="https://www.facebook.com/metropolitanuniversity" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="bi bi-facebook"></i></a>
 </li>
 
 <li class="list-inline-item">
-  <a href="https://youtu.be/ZNl4Sgn1C3I?si=qlLH0N6KlAETpJfk" class="btn-floating btn-sm text-white" style="font-size: 23px; "><i class="bi bi-youtube"></i></a>
+  <a href="https://www.youtube.com/@metropolitanuniversity346" class="btn-floating btn-sm text-white" style="font-size: 23px; "><i class="bi bi-youtube"></i></a>
 </li>
 
 <li class="list-inline-item icon">
-  <a href="#" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="bi bi-linkedin"></i></a>
+  <a href="https://www.linkedin.com/school/metropolitanuniversitysylhet/" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="bi bi-linkedin"></i></a>
 </li>
 
 <li class="list-inline-item">
-  <a href="https://metrouni.edu.bd/" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="bi bi-google"></i></a>
+  <a href="https://metrouni.edu.bd/" class="btn-floating btn-sm text-white" style="font-size: 23px;"><i class="bi bi-search"></i></a>
 </li>
 </ul>
      

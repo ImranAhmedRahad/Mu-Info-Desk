@@ -4,8 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Course Destribution Part</title>
-
-
     <script src="https://kit.fontawesome.com/3021f0f660.js" crossorigin="anonymous"></script>
 
 <style>
@@ -133,9 +131,7 @@ body{
 </style>
 </head>
 <body>
-
-
-    <div class="heading">
+<div class="heading">
        <h1>Course Distribution</h1>
     </div>
 
@@ -168,12 +164,6 @@ body{
  </div>
 </br>
 </br>
- 
 
-      
-
-
-    
-    
 </body>
 </html>

@@ -47,11 +47,10 @@ include('config/connect.php')
                   Services
                 </a>
                 <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Assignment cover Page</a></li>
                   <li><a class="dropdown-item" href="teacher.php">Teacher Info</a></li>
                   <li><a class="dropdown-item" href="student.php">Student Info</a></li>
-                  <li><a class="dropdown-item" href="admin_area/index.php">Course Distribution</a></li>
-                  <li><a class="dropdown-item" href="#">Job Info</a></li>
+                  <li><a class="dropdown-item" href="courses.php">Course Distribution</a></li>
+                  <li><a class="dropdown-item" href="job.php">Job Info</a></li>
                 </ul>
               </li>
                <li class="nav-item dropdown">
@@ -60,7 +59,7 @@ include('config/connect.php')
                 </a>
                 <ul class="dropdown-menu">
                   
-                  <li><a class="dropdown-item" href="event.php">Campus Event Management</a></li>
+                  <li><a class="dropdown-item" href="event.php">Campus Event</a></li>
                   <li><a class="dropdown-item" href="blog.php">Personal Blog</a></li>
                 </ul>
               </li>
@@ -70,7 +69,7 @@ include('config/connect.php')
               
             </ul>
             
-                <a class="nav-logo me-5 pe-4 " href="https://metrouni.edu.bd/"><img src="image-2.jpg" height="38"></a>
+                <a class="nav-logo me-5 pe-4 " href="https://metrouni.edu.bd/"><img src="image/image-2.jpg" height="38"></a>
 
           </div>
         </div>

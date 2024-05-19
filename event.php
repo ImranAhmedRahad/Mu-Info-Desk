@@ -1,3 +1,9 @@
+<?php include('NavBar.php')?>
+<br>
+<br>
+<br>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

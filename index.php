@@ -20,7 +20,7 @@
         <div class="container">
     
           <div class="text-center">
-            <h1 data-aos="zoom-in-up" >About <span class="text-primary">me</span></h1>
+            <h1 data-aos="zoom-in-up" >About <span class="text-primary">US</span></h1>
             <hr class="w-25 m-auto text-primary">
           </div>
 
@@ -35,12 +35,7 @@
                   Anybody can collect teacher information .
                 </li>
                 <li>
-                  For lazy but smart students we provide front-page maker automatically.
-
-                </li>
-                <li>
                   For students and teachers we can provide event related information
-
                 </li>
                 <li>
                   we provide complete package of Course Distribution for the administration .
@@ -55,7 +50,7 @@
 
              <div class="col-sm-12 col-md-6 col-lg-6 " data-aos="fade-up-left">
 
-              <img src="image-4.jpg"  width="100%" class="img-fluid img-thumbnail">
+              <img src="image/image-4.jpg"  width="100%" class="img-fluid img-thumbnail">
               
              </div>
 
@@ -82,7 +77,7 @@
             <div class="card mt-sm-3">
               <div class="card-body" >
 
-                <img src="image-5.jpg"  style="height:60% ;width: 60%;" class="img-fluid border border-primary ">
+                <img src="image/image-5.jpg"  style="height:60% ;width: 60%;" class="img-fluid border border-primary ">
                 <h5 class="card-title">Moumita Datta</h5>
                 <p class="card-text">ID:221-115-062</p>
                 
@@ -93,7 +88,7 @@
           <div class="col-sm-12 col-md-6 col-lg-6" data-aos="fade-up">
             <div class="card mt-sm-3">
               <div class="card-body">
-                <img src="image-6.jpg" style="height:60% ;width: 60%;" class="img-fluid border border-primary">
+                <img src="image/image-6.jpg" style="height:60% ;width: 60%;" class="img-fluid border border-primary">
                 <h5 class="card-title">Mowly Ray</h5>
                 <p class="card-text">ID:221-115-045</p>
                
@@ -107,7 +102,7 @@
           <div class="col-sm-12 col-md-6 col-lg-6 " data-aos="fade-up">
             <div class="card mt-sm-3">
               <div class="card-body ">
-                <img src="image-7.jpg" style="height:60% ;width: 60%;" class="img-fluid border border-primary ">
+                <img src="image/image-7.jpg" style="height:60% ;width: 60%;" class="img-fluid border border-primary ">
                 <h5 class="card-title">Redwan Ahmed</h5>
                 <p class="card-text">ID:221-115-047</p>
                 
@@ -118,7 +113,7 @@
           <div class="col-sm-12 col-md-6 col-lg-6" data-aos="fade-up">
             <div class="card mt-sm-3">
               <div class="card-body">
-                <img src="image-8.jpg" style="height:60% ;width: 60%;" class="img-fluid border border-primary">
+                <img src="image/image-8.jpg" style="height:60% ;width: 60%;" class="img-fluid border border-primary">
                 <h5 class="card-title">Imran Ahmed </h5>
                 <p class="card-text">ID:221-115-061</p>
                
@@ -139,7 +134,7 @@
 
         <div class="top-heading">
           <div class="row">
-            <p class="pt-3 fs-4 text-secondary mb-0 text-center form-heading1">Contact Us</p>
+            <p class="pt-3 fs-4 text-secondary mb-0 text-center form-heading1">Contact US</p>
             <p class="pt-1 fs-2 pb-2 fw-bold text-center form-heading2">Contact us to get started</p>
           </div>
         </div>
@@ -191,21 +186,21 @@
           </div>
 
           <div class="col-12 col-lg-6 col-md-12 p-4 m-0 ms-5">
-            <form action="">
+            <form action="admin_area/message.php" method="POST">
               <div class="container-fluid px-5 pt-3 text-center actualcontainer">
 
                 <div class="row pb-4">
                   <div class="col-md-6">
                     <div class="form-group">
                       <label for="name" class="float-start">Your Name</label>
-                      <input type="text" class="form-control p-2 rounded-0 border-opacity-25" id="Name" placeholder="Your Name">
+                      <input type="text" class="form-control p-2 rounded-0 border-opacity-25" id="Name" placeholder="Your Name" name="name">
                     </div>
                   </div>
 
                   <div class="col-md-6">
                     <div class="form-group">
                       <label for="email" class="float-start">Your E-mail</label>
-                      <input type="email" class="form-control p-2 rounded-0 border-opacity-25" id="email" placeholder="Your E-mail">
+                      <input type="email" class="form-control p-2 rounded-0 border-opacity-25" id="email" placeholder="Your E-mail" name="email">
                     </div>
                   </div>
                 </div>
@@ -214,7 +209,7 @@
                   <div class="col-12">
                     <div class="form-group">
                       <label for="subject" class="float-start">Subject</label>
-                      <input type="text" class="form-control p-2 rounded-0 border-opacity-25" id="subject" placeholder="Subject">
+                      <input type="text" class="form-control p-2 rounded-0 border-opacity-25" id="subject" placeholder="Subject" name="subject">
                     </div>
                   </div>
                 </div>
@@ -229,7 +224,7 @@
                 </div>
                 <div class="row">
                   <div class="col-12">
-                    <button type="submit" class="button btn-primary mb-3 p-2 mt-3 px-3 rounded-1">Send Message</button>
+                    <button type="submit" class="button btn-primary mb-3 p-2 mt-3 px-3 rounded-1" name="isert_message">Send Message</button>
                   </div>
                 </div>
               </div>
