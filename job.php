@@ -1,10 +1,6 @@
 <?php include('NavBar.php')?>
-<pre>
 
-
-
-</pre>
-
+<div class="job mt-top">
     <div class="container mt-3 mb-5 bg-light rounded-lg border border-rounded shadow">
 
         <h1 class="text-center my-5">All Jobs</h1>
@@ -47,14 +43,5 @@ while ($row = mysqli_fetch_assoc($result_query)) {
 
 </div>
 </div>
-<pre>
 
-
-
-
-
-
-
-
-</pre>
 <?php include('footer.php')?>

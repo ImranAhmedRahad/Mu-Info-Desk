@@ -1,115 +1,6 @@
 <?php include('NavBar.php')?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-	<title>Student-Info</title>
-	<style>
-*{ 
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-   
-}
-body{ 
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-       /* background: #182225 */
-   background-image: url(image/2.222.jpg);
-   background-size:cover; 
-   background-position: 0cap; 
- 
-}
-.box{ 
-    font-family: 'Courier New', Courier, monospace;
-    position: relative;
-    width: 380px;
-    height: 420px;
-    background: rgb(53, 67, 92);
-    border-radius: 7px;
-}
-.box form{
-    position: absolute;
-    inset: 4px;
-    padding: 50px 40px;
-    border-radius: 8px;
-    z-index: 2;
-    display: flex;
-    flex-direction: column;
-}
-.box form h2 { 
-    color: white;
-    font-weight: 500;
-    text-align: center ;
-    letter-spacing: 0.1em;
 
-} 
-.box form .ibox{
-    position: relative;
-    width: 300px;
-    margin-top: 35px;
-
-}
-.box form .ibox input{
-    position:relative;
-    width: 100%;
-    padding: 20px 10px 10px;
-    background: transparent ;
-    outline: none;
-    box-shadow: none;
-    color: White;/*rgba(15, 19, 24,1);*/
-    font-size: 1em;
-    letter-spacing: 0.05em;
-    transition: 0.5s;
-    z-index:10;
-    
-}
-.box form .ibox span{ 
-    position: absolute;
-    left: 0;
-    padding: 20px 10px 10px;
-    pointer-events: none;
-    color:rgb(93, 120, 168);
-    font-size: 1em;
-    letter-spacing: 0.05em;
-    transition: 0.5s;
-}
-.box form .ibox input:valid~span,
-.box form .ibox input:focus~span
-{
-    color: white;
-    font-size: 0.75em;
-    transform:translateY(-34px);
-}
-
-.box form .btn-student
-{
-    border:none;
-    outline: none;
-    padding :9px 25px;
-    background :cornflowerblue;
-    cursor: pointer;
-    font-size: 0.9em;
-    border-radius: 4px;
-    font-weight: 600;
-    width: 100px;
-    margin-top: 10px;
-
-}
-.box form .ibox .btn-student:active
-{
-    opacity: 0.8;
-}
-
-</style>
-</head>
-<body>
-<body>
+<section class="student mt-top">
 
 
 
@@ -179,6 +70,5 @@ while ($row = mysqli_fetch_assoc($result_query)) {
         }
 
         ?>
-</body>	
-</body>
-</html>
+</section>	
+<?php include('footer.php')?>

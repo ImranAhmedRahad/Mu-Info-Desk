@@ -1,6 +1,6 @@
 <?php include('NavBar.php')?>
-<br>
 
+<section class="courses mt-top">
 <div class="container-fluid mt-3  mb-5 bg-light rounded-lg border border-rounded shadow">
 
 <h1 class="text-center my-5">All Courses</h1>
@@ -57,5 +57,5 @@ $course_credit = $row['course_credit'];
 </table>
 
 </div>
-</div>
+</section>
 <?php include('footer.php')?>
