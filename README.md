@@ -1,4 +1,4 @@
-![Screenshot 2024-05-19 at 17-20-01 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/804d310d-4d57-4414-bc2d-780ff5877700)# Mu-Info-Desk
+# Mu-Info-Desk
 
 The university is creating a centralized information hub to serve students, teachers, faculty, and visitors. This hub will offer easy access to campus resources, events, and important announcements. The initiative aims to enhance communication and streamline the dissemination of information within the university community. By centralizing information, the hub will ensure that everyone on campus can quickly and efficiently access the resources they need, improving connectivity and fostering a well-informed campus environment.
 
@@ -155,6 +155,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ![Screenshot 2024-05-19 at 17-20-29 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/3bf3b671-bfc9-45a5-b946-578b3a03f457)
 ![Screenshot 2024-05-19 at 17-20-34 Courses](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/29229a66-d394-476c-b767-64c7f9f0acf6)
 ![Screenshot 2024-05-19 at 17-20-40 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/3c80286a-136a-4bdf-8cb8-05dac6bf5753)
+![Screenshot 2024-05-19 at 17-20-01 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/804d310d-4d57-4414-bc2d-780ff5877700)
 
 
 
