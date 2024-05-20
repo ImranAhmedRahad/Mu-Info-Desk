@@ -60,6 +60,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ![Screenshot 2024-05-20 at 23-05-43 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/873ba8d5-cf7d-4439-ba9c-94e719fa770e)
 ![Screenshot 2024-05-19 at 17-18-06 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5b7d0156-e9ac-4dd3-87a0-d4b0fe3b6572)
 ![Screenshot 2024-05-19 at 17-18-18 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/1a3f2747-6101-4748-8202-1d69a45b406b)
+![Screenshot 2024-05-20 at 23-09-39 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/66b10082-b5cc-453a-9c8a-ca1840244427)
 ![Screenshot 2024-05-19 at 17-18-40 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/822e4cc4-0af7-49cb-a958-116abcb30300)
 ![Screenshot 2024-05-19 at 17-19-34 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d01867ca-3e6e-40e8-97a2-ee7a3d0eb718)
 ![Screenshot 2024-05-19 at 17-19-25 MU Info Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/27379b76-a0be-4333-af33-38109a3a9e2e)
