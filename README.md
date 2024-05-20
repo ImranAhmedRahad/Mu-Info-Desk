@@ -44,9 +44,9 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 ## Contributor
 
-- [Imran Ahmed ](https://github.com/ImranAhmedRahad)
+- [Imran Ahmed Rahad ](https://github.com/ImranAhmedRahad)
 - [Redwan Ahmed ](https://github.com/redwan-ahmed-n)
-- [Mowly Roy Puja ](https://github.com/mowly421)
+- [Mowly Ray ](https://github.com/mowly421)
 - [Moumita Datta Sristy ](https://github.com/moumita6256)
 
 
