@@ -53,6 +53,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ## A look of project
 ![Screenshot 2024-05-19 at 17-16-18 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/4411610b-000a-44d1-8189-f902792311ff)
 ![Screenshot 2024-05-19 at 17-16-34 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/f05fd66a-4ec3-4b5a-a15c-bd43d5dca21e)
+![Screenshot 2024-05-19 at 17-16-39 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/39cb43ef-59f5-40ed-ace4-26b5e0d88302
 ![Screenshot 2024-05-19 at 17-16-58 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5333045d-098a-4284-9483-b491f27f2032)
 ![Screenshot 2024-05-19 at 17-17-50 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/cdf2a84f-de55-4e1e-89aa-12e09c5aba4e)
 ![Screenshot 2024-05-19 at 17-18-06 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5b7d0156-e9ac-4dd3-87a0-d4b0fe3b6572)
