@@ -53,8 +53,8 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ## A look of project
 ![Screenshot 2024-05-19 at 17-16-18 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/4411610b-000a-44d1-8189-f902792311ff)
 ![Screenshot 2024-05-19 at 17-16-34 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/f05fd66a-4ec3-4b5a-a15c-bd43d5dca21e)
-![Screenshot 2024-05-19 at 17-16-39 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/39cb43ef-59f5-40ed-ace4-26b5e0d88302)
-![Screenshot 2024-05-19 at 17-16-58 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5333045d-098a-4284-9483-b491f27f2032)
+![Screenshot (327)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/3bb98309-e067-4fac-9e80-b83b59d3380c)
+![Screenshot (328)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/9257e291-432d-4142-97fe-8393f74b85c3)
 ![Screenshot 2024-05-19 at 17-17-50 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/cdf2a84f-de55-4e1e-89aa-12e09c5aba4e)
 ![Screenshot 2024-05-19 at 17-18-06 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5b7d0156-e9ac-4dd3-87a0-d4b0fe3b6572)
 ![Screenshot 2024-05-19 at 17-18-18 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/1a3f2747-6101-4748-8202-1d69a45b406b)
