@@ -168,6 +168,16 @@ Using php connect with databse to store the information about the course offered
 
 
 
+### Event:
+Upcoming campus events, latest events and various events related to the university. Here everyone can easily see our campus events with details.
+
+
+
+
+
+
+
+
 
 
 
