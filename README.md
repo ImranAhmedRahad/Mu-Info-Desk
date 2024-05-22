@@ -124,6 +124,11 @@ An admin panel, or administrative dashboard, is a web-based interface used by ad
 
 
 
+### Teacher & Student Info:
+Administrators can add, update, or remove teacher and student profiles. This includes personal information, contact details, and roles.
+
+
+
 
 
 ![Screenshot 2024-05-22 at 17-38-13 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/62baf001-acd6-4c82-ba3b-ecc01bb32784)
