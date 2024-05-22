@@ -25,7 +25,7 @@
                     <div class="animate__animated animate__bounce animate__slideInRight animate__delay-2s animate__slow small-img-row">
                         <div class="small-img">
                             <img src="image/pitha.png">
-                            <img src="image/118620_play_icon.png" class="play-btn" onclick="playVideo('image/Pitha utsho.Metropolitan University, Sylhet..mp4')" >
+                            <img src="image/118620_play_icon.png" class="play-btn" onclick="playVideo('image/Pitha utshob.Mrtropolitan University,Sylhet..mp4)" >
                         </div>
                         <p>Pitha Utshob at Metropolitan University,Sylhet 2024. </p>
                     </div>
