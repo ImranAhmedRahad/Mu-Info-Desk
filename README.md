@@ -153,6 +153,8 @@ Administrators can add, update, or remove teacher and student profiles. This inc
  This feature is to post job and make them able able for the student & other people.
 
 ![Screenshot 2024-05-22 at 17-38-38 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/46056081-e372-4a70-990e-d31525d977f9)
+![All Jobs](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/6b880a77-91f3-480a-91f0-b986bf825706)
+
 
 
 
