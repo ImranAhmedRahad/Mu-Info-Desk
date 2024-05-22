@@ -124,8 +124,6 @@ An admin panel, or administrative dashboard, is a web-based interface used by ad
 
 
 
-### Teacher & Student Info:
-Administrators can add, update, or remove teacher and student profiles. This includes personal information, contact details, and roles.
 
 
 
@@ -136,10 +134,33 @@ Administrators can add, update, or remove teacher and student profiles. This inc
 
 
 
+
+### Teacher & Student Info:
+Administrators can add, update, or remove teacher and student profiles. This includes personal information, contact details, and roles.
+
+
+
+
 ![Screenshot 2024-05-22 at 17-38-31 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/a490f789-141f-4f5a-a077-84e2dac0e575)
 ![Screenshot 2024-05-22 at 17-38-22 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/8c0ff1d5-fda9-49eb-beac-19917ae0abe4)
+
+
+
+
+### Job Info:
+ This feature is to post job and make them able able for the student & other people.
+
 ![Screenshot 2024-05-22 at 17-38-38 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/46056081-e372-4a70-990e-d31525d977f9)
+
+
+
+### Course Distribution:
+Using php connect with databse to store the information about the course offered to the student and as for the teacher.
+
 ![Screenshot 2024-05-22 at 17-38-57 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/63b84bd6-649f-457b-b75b-70cafa51d690)
+
+
+
 ![Screenshot 2024-05-22 at 17-38-49 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/91e296c9-a0d7-4bcc-82f7-e2e1e4c92e68)
 ![Screenshot 2024-05-22 at 17-39-06 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2b4d4ec4-4312-4b02-b76f-9467d5bc240a)
 ![Screenshot 2024-05-22 at 17-39-22 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/26d6481e-bc68-4e2c-bdbc-9d7ddd50f5be)
