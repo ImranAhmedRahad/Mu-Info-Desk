@@ -64,7 +64,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ![Screenshot 2024-05-19 at 17-18-40 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/822e4cc4-0af7-49cb-a958-116abcb30300)
 ![Screenshot 2024-05-20 at 23-21-51 MU Info Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2ddfde0f-b27f-42a2-afa9-a53cb901762e)
 ![Screenshot 2024-05-20 at 23-26-37 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d0eb3898-75cd-4898-9088-fdf297acbc8a)
-![Screenshot 2024-05-20 at 23-22-18 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/43680e1a-bc5d-428b-9040-9ac25de33870)
+
 ![Screenshot 2024-05-22 at 13-51-26 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2b558cf6-0cb6-4989-9e68-2866c9a02742)
 
 ![Screenshot 2024-05-20 at 23-22-47 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/1dc9a2b3-a17e-4ea7-b8ae-70ef884663d7)
