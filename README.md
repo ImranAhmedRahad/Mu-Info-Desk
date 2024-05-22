@@ -143,6 +143,8 @@ Administrators can add, update, or remove teacher and student profiles. This inc
 
 ![Screenshot 2024-05-22 at 17-38-31 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/a490f789-141f-4f5a-a077-84e2dac0e575)
 ![Screenshot 2024-05-22 at 17-38-22 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/8c0ff1d5-fda9-49eb-beac-19917ae0abe4)
+![Insert Teacher](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/f6cc71d6-0a2b-4343-95a3-a551ed2cbc65)
+![Insert Student](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/82da4d89-d616-484f-bb07-b466392438ba)
 
 
 
