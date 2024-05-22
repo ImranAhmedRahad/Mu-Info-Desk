@@ -118,6 +118,14 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
+### Admin Area:
+
+
+
+
+
+
+
 
 
 
