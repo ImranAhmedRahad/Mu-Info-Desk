@@ -179,7 +179,7 @@ Upcoming campus events, latest events and various events related to the universi
 
 
 ### Message Option:
-Admins can send messages to individual users or groups of users (e.g., all students, all teachers). This can include announcements, reminders, and other important communications.
+Anyone who wants to contact can go to the contact section and give his information which will be shown to the admin through send message.
 
 ![Contact](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d492d622-7458-404e-bd61-1b329526e826)
 ![Message contact](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/6072270b-e71f-4fcd-95be-db205c6aa01b)
