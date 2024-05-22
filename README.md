@@ -88,11 +88,9 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
    
 
-
-![Screenshot 2024-05-19 at 17-18-06 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5b7d0156-e9ac-4dd3-87a0-d4b0fe3b6572)
 ![Screenshot 2024-05-20 at 23-21-51 MU Info Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2ddfde0f-b27f-42a2-afa9-a53cb901762e)
-![Screenshot 2024-05-20 at 23-26-37 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d0eb3898-75cd-4898-9088-fdf297acbc8a)
-![Course (2)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/6c41e0e7-b312-4746-a39e-f9ff3c045e32)
+![Screenshot 2024-05-19 at 17-18-06 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/5b7d0156-e9ac-4dd3-87a0-d4b0fe3b6572)
+
 
 
 
@@ -119,21 +117,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
-![Screenshot 2024-05-22 at 13-51-26 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2b558cf6-0cb6-4989-9e68-2866c9a02742)
 
-![Screenshot 2024-05-22 at 14-28-13 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/7ca67d32-8ef1-4dbb-a74b-7293639bc8a7)
-
-![Screenshot 2024-05-22 at 14-32-37 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/36ebad01-f736-4f2d-9ee2-b1e0427c38d2)
-
-
-![Screenshot 2024-05-20 at 23-22-47 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/1dc9a2b3-a17e-4ea7-b8ae-70ef884663d7)
-![Screenshot 2024-05-20 at 23-22-59 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/a28b62d0-bcca-4868-a454-616fe6683601)
-![Screenshot 2024-05-20 at 23-23-08 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/46b7c3a9-adea-43d7-9d83-4a2ff287f784)
-![Screenshot 2024-05-20 at 23-23-44 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/77f9904f-a6c2-4516-818c-1969e380db60)
-![Screenshot 2024-05-20 at 23-23-53 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/3ce15213-1844-4c6e-95a6-f12bfab3e11e)
-![Screenshot 2024-05-20 at 23-24-05 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/c9339e4d-949d-4cda-8b14-59987f68f15e)
-![Screenshot 2024-05-20 at 23-24-16 Courses](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/81f8b5a0-eb12-4cb1-a7fb-e3a579d5c01a)
-![Screenshot 2024-05-20 at 23-24-24 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/643d7bd1-613e-44e8-9c3f-caae3e7201da)
 
 
 
