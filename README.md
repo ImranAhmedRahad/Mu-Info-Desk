@@ -119,13 +119,18 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
-### Admin Area:
+### Admin Panel:
+An admin panel, or administrative dashboard, is a web-based interface used by administrators to manage the backend operations of a website or application. It provides a centralized platform for managing various aspects of a system, such as user accounts, content, settings, and data. For a backend site that deals with entities like teacher info, student info, course distribution, campus events, and job info, the admin panel plays a crucial role in ensuring efficient and streamlined operations. 
 
 
 
 
 
 ![Screenshot 2024-05-22 at 17-38-13 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/62baf001-acd6-4c82-ba3b-ecc01bb32784)
+
+
+
+
 ![Screenshot 2024-05-22 at 17-38-31 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/a490f789-141f-4f5a-a077-84e2dac0e575)
 ![Screenshot 2024-05-22 at 17-38-22 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/8c0ff1d5-fda9-49eb-beac-19917ae0abe4)
 ![Screenshot 2024-05-22 at 17-38-38 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/46056081-e372-4a70-990e-d31525d977f9)
