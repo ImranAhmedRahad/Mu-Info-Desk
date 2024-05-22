@@ -52,9 +52,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 ## A look of project
 
-Mowly Ray:
-I used HTML, CSS also Bootstrap for responsive in whole page. 
-And in the contact section I used PHP & Database .
+### Mowly Ray:
 ![Screenshot 2024-05-19 at 17-16-18 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/4411610b-000a-44d1-8189-f902792311ff)
 ![Screenshot 2024-05-19 at 17-16-34 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/f05fd66a-4ec3-4b5a-a15c-bd43d5dca21e)
 ![Screenshot (327)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/75daba32-73ae-4f7e-ac6d-1146af0bc391)
