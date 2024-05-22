@@ -62,6 +62,12 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ![Screenshot (328)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/125190e3-d78d-4c0c-ac91-331e3df50004)
 ![Screenshot (329)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d5c9c37f-92eb-4db5-9385-3c08ce666ba6)
 
+### Redwan Ahmed:
+
+1. From this sub-page anybody can collect Metropolitan University teacher or student information by his/her ID and NAME. 
+2. I used HTML & CSS for Search Page in the frontend side and for the searching given information i used PHP and DB.
+3. Also  i connected the job page with database and show the job related given information.
+
 
 ![Screenshot 2024-05-19 at 17-17-50 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/cdf2a84f-de55-4e1e-89aa-12e09c5aba4e)
 ![Screenshot 2024-05-20 at 23-05-43 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/873ba8d5-cf7d-4439-ba9c-94e719fa770e)
