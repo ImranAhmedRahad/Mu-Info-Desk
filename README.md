@@ -178,6 +178,12 @@ Upcoming campus events, latest events and various events related to the universi
 
 
 
+### Message Option:
+Admins can send messages to individual users or groups of users (e.g., all students, all teachers). This can include announcements, reminders, and other important communications.
+
+
+
+
 
 
 
