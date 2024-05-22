@@ -162,6 +162,7 @@ Administrators can add, update, or remove teacher and student profiles. This inc
 Using php connect with databse to store the information about the course offered to the student and as for the teacher.
 
 ![Screenshot 2024-05-22 at 17-38-57 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/63b84bd6-649f-457b-b75b-70cafa51d690)
+![Add course](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/6c813dcb-22e1-4aae-b3d7-27a88c8bca62)
 
 
 
