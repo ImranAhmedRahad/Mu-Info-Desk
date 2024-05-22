@@ -62,6 +62,9 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ![Screenshot (328)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/125190e3-d78d-4c0c-ac91-331e3df50004)
 ![Screenshot (329)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d5c9c37f-92eb-4db5-9385-3c08ce666ba6)
 
+
+
+
 ### Redwan Ahmed:
 
 1. From this sub-page anybody can collect Metropolitan University teacher or student information by his/her ID and NAME. 
