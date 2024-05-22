@@ -25,12 +25,13 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 ## Features
 
-- Teacher info
+- Teacher Info
 - Student Info
-- Course distribution
-- campus event
+- Course Distribution
+- Job Info
+- Campus event
 - Personal Blog
-- Job info
+
 
 
 
