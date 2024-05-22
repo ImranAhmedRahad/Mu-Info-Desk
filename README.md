@@ -172,6 +172,10 @@ Using php connect with databse to store the information about the course offered
 Upcoming campus events, latest events and various events related to the university. Here everyone can easily see our campus events with details.
 
 
+![Event (2)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/51f6ee69-2c13-44a9-b079-e900db9d2427)
+![Post Event](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/dcbb2b96-7b99-47e0-98d8-11645057e3a5)
+
+
 
 
 
