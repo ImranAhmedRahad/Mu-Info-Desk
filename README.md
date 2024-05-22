@@ -161,13 +161,7 @@ Using php connect with databse to store the information about the course offered
 
 
 
-![Screenshot 2024-05-22 at 17-38-49 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/91e296c9-a0d7-4bcc-82f7-e2e1e4c92e68)
-![Screenshot 2024-05-22 at 17-39-06 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2b4d4ec4-4312-4b02-b76f-9467d5bc240a)
-![Screenshot 2024-05-22 at 17-39-22 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/26d6481e-bc68-4e2c-bdbc-9d7ddd50f5be)
-![Screenshot 2024-05-22 at 17-39-15 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/b1cece75-8ec5-44a2-88a8-f2b1e16754e4)
-![Screenshot 2024-05-22 at 17-39-32 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/6f0d5dff-a3c0-4dad-b8f6-86e89d3d7e6e)
-![Screenshot 2024-05-22 at 17-39-40 Courses](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2ba16e26-d47d-46fd-86bc-ffdc6cccc01c)
-![Screenshot 2024-05-22 at 17-39-52 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/57c61d48-70bf-4e7e-baf2-abde1bd82f58)
+
 
 
 
