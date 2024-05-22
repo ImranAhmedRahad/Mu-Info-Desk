@@ -102,9 +102,9 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 ### Moumita Datta Sristy:
 
-1. On this page, there are image galleries of upcoming campus events, latest events and various events related to the university. Here everyone can easily see our campus events with details.
-2. I used HTML & CSS in campus event, also in this page i used PHP and DB.
-3. After that, also i used HTML, CSS & JS in for Personal blog using some video file.
+1. On this page, there are image galleries of upcoming campus events, latest events and various events related to the university. Here everyone can easily see our campus events with details or here will provide all types of varsity related videos, like students & teachers video blogs, and some of social media web-pages video blogs .
+3. I used HTML & CSS in campus event, also in this page i used PHP and DB.
+4. After that, also i used HTML, CSS & JS in for Personal blog using some video file.
 
 
 
