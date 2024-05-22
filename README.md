@@ -94,6 +94,17 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ![Screenshot 2024-05-20 at 23-26-37 Insert products-Admin Dashboad](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/d0eb3898-75cd-4898-9088-fdf297acbc8a)
 ![Course (2)](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/6c41e0e7-b312-4746-a39e-f9ff3c045e32)
 
+
+
+
+
+### Moumita Datta Sristy:
+
+1.On this page, there are image galleries of upcoming campus events, latest events and various events related to the university. Here 
+   everyone can easily see our campus events with details.
+2.I used HTML & CSS in campus event, also in this page i used PHP and DB.
+3.After that, also i used HTML, CSS & JS in for Personal blog using some video file.
+
 ![Screenshot 2024-05-21 at 20-26-50 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/07de44ad-afa6-4f53-beb0-170fc083db0e)
 ![Screenshot 2024-05-19 at 17-18-40 MU INfo Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/822e4cc4-0af7-49cb-a958-116abcb30300)
 
