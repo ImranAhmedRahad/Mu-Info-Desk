@@ -27,10 +27,10 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 - Teacher info
 - Student Info
-- Job info
 - Course distribution
 - campus event
 - Personal Blog
+- Job info
 
 
 
