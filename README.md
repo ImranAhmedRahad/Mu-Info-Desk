@@ -46,9 +46,8 @@ Please download the image file from the link below. Once downloaded, copy the fi
 ## Contributor
 
 - [Imran Ahmed Rahad ](https://github.com/ImranAhmedRahad)
-- [Redwan Ahmed ](https://github.com/redwan-ahmed-n)
 - [Mowly Ray ](https://github.com/mowly421)
-- [Moumita Datta Sristy ](https://github.com/moumita6256)
+  
 
 
 ## A look of project
@@ -66,7 +65,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
-### Redwan Ahmed:
+### Find Teachers Information:
 
 1. From this sub-page anybody can collect Metropolitan University teacher or student information by his/her ID and NAME. 
 2. I used HTML & CSS for Search Page in the frontend side and for the searching given information i used PHP and DB.
@@ -87,6 +86,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 3. Also I connected the Course Distribution page with Database and show the Course related given information.
 
 
+
    
 
 ![Screenshot 2024-05-20 at 23-21-51 MU Info Desk](https://github.com/ImranAhmedRahad/Mu-Info-Desk/assets/129501996/2ddfde0f-b27f-42a2-afa9-a53cb901762e)
@@ -101,7 +101,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
-### Moumita Datta Sristy:
+### Up Coming Events:
 
 1. On this page, there are image galleries of upcoming campus events, latest events and various events related to the university. Here everyone can easily see our campus events with details or  personal blog here will provide all types of varsity related videos, like students & teachers video blogs, and some of social media web-pages video blogs .
 3. I used HTML & CSS in campus event, also in this page i used PHP and DB.
