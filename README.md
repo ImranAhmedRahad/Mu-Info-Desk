@@ -47,6 +47,8 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 - [Imran Ahmed Rahad ](https://github.com/ImranAhmedRahad)
 - [Mowly Ray ](https://github.com/mowly421)
+- [Redwan Ahmed ](https://github.com/redwan-ahmed-n)
+- [Moumita Datta Sristy ](https://github.com/moumita6256)
   
 
 
@@ -65,7 +67,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
-### Find Teachers Information:
+### Redwan Ahmed:
 
 1. From this sub-page anybody can collect Metropolitan University teacher or student information by his/her ID and NAME. 
 2. I used HTML & CSS for Search Page in the frontend side and for the searching given information i used PHP and DB.
@@ -101,7 +103,7 @@ Please download the image file from the link below. Once downloaded, copy the fi
 
 
 
-### Up Coming Events:
+### Moumita Datta:
 
 1. On this page, there are image galleries of upcoming campus events, latest events and various events related to the university. Here everyone can easily see our campus events with details or  personal blog here will provide all types of varsity related videos, like students & teachers video blogs, and some of social media web-pages video blogs .
 3. I used HTML & CSS in campus event, also in this page i used PHP and DB.
